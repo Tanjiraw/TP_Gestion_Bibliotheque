@@ -16,10 +16,10 @@
 # Modify the following lines to fit your project
 # SRC_FILES is the list of source files to compile, files are separated by a space.
 # Do not put .h files into the source files!
-SRC_FILES = date.cpp Date-test.cpp
+SRC_FILES = date.cpp Livre.cpp Livre-test.cpp
 #
 # APP is the name of the executable, the executable will be generated into the bin directory
-APP        = Date-test
+APP        = Livre-test
 #
 # Choose your compiler - Use g++ on Linux, Windows and clang++ on Mac OS X
 CXX        = g++
